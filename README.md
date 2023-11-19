@@ -1,16 +1,31 @@
-### Hi there 👋
+## 안녕하세요, 백엔드 개발자 김주영입니다.
 
-<!--
-**kjuyoung/kjuyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Work Experience.
+ - 투비원솔루션즈 (2023.02 - 현재)
+   - 백엔드 개발자
+   - 전기차 충전 플랫폼 로밍 연동 프로젝트 (2023.02 - 2023.07)
 
-Here are some ideas to get you started:
+ - 워자드랩 (2022.04 - 2023.01)
+   - 소프트웨어 엔지니어
+   - 현대자동차 FOTA(Firmware OTA) 프로젝트 유지보수 (2022.04 - 2022.09)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - LG전자 (2014.03 - 2016.09)
+   - 펌웨어 개발자
+   - PSA(푸조) 자동차 프로젝트 (2014.12 - 2016.09)
+   - GM 자동차 프로젝트 (2014.07 - 2014.11)
+
+---
+### Tech Stacks.
+ - Java
+ - Spring Boot
+ - Spring Batch
+ - Spring Data JPA
+ - MariaDB 등
+
+---
+### Education.
+ - 한양대 전자컴퓨터통신공학과 석사
+   - 2011.09 - 2014.02
+
+ - 한양대 컴퓨터공학과 학사
+   - 2009.03 - 2011.08
